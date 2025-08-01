@@ -98,6 +98,10 @@ body {
   color: #f0f0f0; /* Light text */
   line-height: 1.6;
   overflow-x: hidden; /* Prevent horizontal scroll */
+  background-image: url('https://dummyimage.com/1920x1080/000/fff.jpg'); /* Placeholder for full-screen background image */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .main-content {
